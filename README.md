@@ -6,7 +6,7 @@
 Java SE 14, Eclipse IDE, Group Project
 
 A GUI Java program to display shapes to the screen.
-This program uses Java AWT JOptionPane.
+This program uses Java AWT, Swing and JOptionPane.
 
 Program Functions: 
 1. Select two available colors for each shape.
