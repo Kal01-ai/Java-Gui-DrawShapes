@@ -1,4 +1,8 @@
 # Java-Gui-DrawShapes
+
+## IMPORTANT
+**MUST INCLUDE ALL THREE CLASSES (Circle.java, Star.java and DynamicShapes.java) IN ORDER TO WORK**
+
 Java SE 14, Eclipse IDE, Group Project
 
 A GUI Java program to display shapes to the screen.
